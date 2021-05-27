@@ -1,0 +1,7 @@
+ID,Name,Designator,Quantity,Comments,,Manufacturer Part,Manufacturer,Supplier,Supplier Part
+1,USB Type B 4Pin Rt.Angle Female,J1,1,,Example Parts :,67068-8000,Molex,Mouser,538-67068-8000
+2,USB Type A 4Pin Vertical Female,"J2,J4,J5",3,,,614004135023,Wurth Elektronik,Mouser,710-614004135023
+3,USB Type B 4Pin Vertical Female,J3,1,,,61400413321,Wurth Elektronik,Mouser,710-61400413321
+4,Pin Header 2*8P 2.54,J6,1,Eurorack Power Connector,,,,,
+5,SWITCH 3PDT,S1,1,ON-NONE-ON,,7301MDZGE,C&K,Mouser,611-7301MDZGE
+,,,,Solder Lug,,1003P1T1B1M1REH,E-Switch,Mouser,612-1003P1T1B1M1REH
